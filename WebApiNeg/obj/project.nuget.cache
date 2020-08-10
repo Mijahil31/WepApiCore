@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ykautT7KfTcvO2Vd1OIxjcBTZk6mkJrOe7/iSGXKSC2BQY39E35HaEN4+K4ezfUEZXXx1ARrgfp80jANZeOi3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mijah\\source\\repos\\WepApiCore\\WebApiNeg\\WebApiNeg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mijah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

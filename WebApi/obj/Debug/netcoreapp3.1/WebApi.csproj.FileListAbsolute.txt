@@ -1,0 +1,9 @@
+C:\Users\mijah\source\repos\WepApiCore\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mijah\source\repos\WepApiCore\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mijah\source\repos\WepApiCore\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mijah\source\repos\WepApiCore\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\mijah\source\repos\WepApiCore\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\mijah\source\repos\WepApiCore\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\mijah\source\repos\WepApiCore\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\mijah\source\repos\WepApiCore\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\mijah\source\repos\WepApiCore\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
